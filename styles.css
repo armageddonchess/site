@@ -6,7 +6,7 @@
 body{
 	margin:0;
 	padding:0;
-    background-image: url('doska.jpg');
+    background:#000000;
     overflow-x:hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
